@@ -97,7 +97,4 @@ python parkinsons_detection.py
 
 ---
 ### Contributions
-- Komal Sinha
-- Sunny Kushwaha
-- Mansi Mankar
-- Jawahar Lal Singh
+- [Komal Sinha]{https://github.com/Komalsinha88}
